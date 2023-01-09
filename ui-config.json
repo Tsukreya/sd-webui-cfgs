@@ -1,8 +1,8 @@
 {
     "txt2img/Prompt/visible": true,
-    "txt2img/Prompt/value": "{30%NSFW, |}{fantasy|sci-fi|cyberpunk|steampunk|post-apocalyptic|dark fantasy|ass focus|robot|cyborg|close-up|(close-up:1.2)|succubus|demon}, (extremely detailed CG unity 8k wallpaper),(masterpiece), (best quality), (ultra-detailed), (best illustration), (best shadow), (an extremely delicate and beautiful), 1girl, beautiful eyes, deep blue eyes, (medium hair), (light blue hair), (white cat ears), <[Camera Angle]>, {happy|embarassed|excited|scared|angry|(smug:1.1)}, <[Pose][--Locations]>, <[Location][--Pose]>, <[Torso]>, <[Waist]>",
+    "txt2img/Prompt/value": "{NSFW|SFW}, (extremely detailed CG unity 8k wallpaper), (masterpiece), (best quality), (ultra-detailed), (best illustration), (best shadow), (an extremely delicate and beautiful), 1girl, beautiful eyes, deep blue eyes, (medium hair), (light blue hair), <[Camera Angle]>, <[Pose][--Locations]>, <[Location][--Pose]>, <[Upper Body]>, <[Lower Body]> <[Emotions][--negative]>",
     "txt2img/Negative prompt/visible": true,
-    "txt2img/Negative prompt/value": "by bad-artist, lowres, bad anatomy, bad hands, mutated hand, text, error, missing fingers, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, out of focus, (wedding ring:1.1), 2girls, 3girls, (((multiple views))), (((bad proportions))), (((multiple legs))), (((multiple arms))), (monotone). 3D. low quality lowres multiple breasts, jewelry, neck ribbon, tattoo, ascot, letterboxed",
+    "txt2img/Negative prompt/value": "by bad-artist, bad-hands-5, bad-image-v2-39000, cat, animal",
     "txt2img/Style 1/visible": true,
     "txt2img/Style 1/value": "None",
     "txt2img/Style 2/visible": true,
